@@ -2,4 +2,8 @@
 
 ## Schedule (TB1)
 
-## Introduction to Pandas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/session1/main.ipynb)
+## Session 1:
+
+## Modules and Classes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/session_01/modules_oop.ipynb)
+
+## Introduction to Pandas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/session_01/pandas_intro.ipynb)
