@@ -1,6 +1,6 @@
 # Bristol Data Science Workshop 2025-2026
 
-## Schedule (TB1)
+## Schedule (TB2)
 
 ## Week 1 : Introduction to Pandas
 
