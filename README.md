@@ -12,7 +12,7 @@
 
 ## Week 3 : SQL
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/week2/sql.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/week3/sql.ipynb)
 
 ## Week 4 : Visualisation & Feature Engineering
 
