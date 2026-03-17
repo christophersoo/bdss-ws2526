@@ -14,6 +14,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/week3/sql.ipynb)
 
-## Week 4 : Visualisation & Feature Engineering
+## Week 4 : RECAP
 
-## Week 5 : Machine Learning
+## Week 5 : Visualisation & Machine Learning
