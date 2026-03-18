@@ -17,4 +17,4 @@
 ## Week 4 : RECAP
 
 ## Week 5 : Visualisation & Machine Learning
-(https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/week5/ML.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/christophersoo/bdss-ws2526/blob/main/week5/ML.ipynb)
